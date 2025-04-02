@@ -1,0 +1,11 @@
+Name,Age,City,Occupation
+Alice,30,New York,Engineer
+Bob,25,Los Angeles,Teacher
+Charlie,40,Chicago,Doctor
+Diana,28,Houston,Artist
+Eve,35,Phoenix,Lawyer
+Frank,22,San Diego,Student
+Grace,45,Dallas,Manager
+Hannah,31,San Francisco,Designer
+Ian,29,Seattle,Developer
+Julia,27,Miami,Chef
