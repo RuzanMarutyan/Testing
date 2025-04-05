@@ -1,3 +1,6 @@
+Test coverage
+
+
 | TC ID | Title | Description | Precondition | Steps | Test Data | Expected Results |
 |---|---|---|---|---|---|---|
 | TC_001 | Verify Page Title | Checks that the page title is displayed correctly. | User is on the New Meeting Details screen. | N/A | N/A | "New meeting" title is displayed on the top left corner |
